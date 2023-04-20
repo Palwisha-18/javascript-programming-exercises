@@ -12,6 +12,8 @@ This repository consists of coding problems with solutions implemented in JavaSc
 
 *Medium Problems*:
 - Reverse Array
-
+- Two Sum
+- Find First and Last Position of Element in Sorted Array
+- Find Common Chars
 
 *Hard Problems*:
