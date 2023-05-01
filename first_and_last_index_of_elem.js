@@ -26,4 +26,4 @@ function firstAndLastIndexOfElem(arr, target) {
 
 console.log(firstAndLastIndexOfElem([5, 7, 7, 8, 8, 10], 8))
 console.log(firstAndLastIndexOfElem([5, 7, 7, 8, 8, 10], 6))
-console.log(firstAndLastIndexOfElem([5, 6, 7, 8, 8, 6], 6))
+console.log(firstAndLastIndexOfElem([6, 6, 6, 6, 6, 6], 6))
