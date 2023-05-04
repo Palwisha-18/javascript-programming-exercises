@@ -9,6 +9,7 @@ This repository consists of coding problems with solutions implemented in JavaSc
 - FizzBuzz
 - km to miles converter
 - Print multiplication table
+- Is Isogram
 
 *Medium Problems*:
 - Reverse Array
