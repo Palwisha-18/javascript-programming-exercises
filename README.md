@@ -19,3 +19,6 @@ This repository consists of coding problems with solutions implemented in JavaSc
 - Is Pangram
 
 *Hard Problems*:
+- Bubble Sort
+- Insertion Sort
+
